@@ -11,5 +11,6 @@ div{
 div:hover{
     background-color: aqua;
     transform: rotate(30degree);
+    transform: scale(2);
 
 }
