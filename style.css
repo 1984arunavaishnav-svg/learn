@@ -11,6 +11,4 @@ div{
 div:hover{
     background-color: rgb(255, 0, 0);
     transform: skew(30deg)
-  
-
-}
+  }
