@@ -6,7 +6,7 @@ div{
     left: 500px;
     height: 100px;
     width: 100px;
-    animation: shubh 2s linear 0s 10 ;
+    animation: shubh 10s linear 0s infinite alternate ;
 }
 
 @keyframes shubh{
@@ -16,6 +16,6 @@ div{
 
 
 @keyframes shubh{
-    from{background-color: blue ;}
-    from{background-color: aquamarine;}
+    from{left: 0px;}
+    from{left: 700px;}
 }
