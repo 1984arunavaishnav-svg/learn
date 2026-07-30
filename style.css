@@ -21,7 +21,8 @@
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    border-top: black;
+    border: 3px solid blue;
+    border-top: 3px solid black;
     animation: loader 3s linear 1s infinite ;
 }
 @keyframes loader{
