@@ -1,2 +1,2 @@
  full name="shubh vaishnav";
-console.log(full name )
+console.log(full name);
