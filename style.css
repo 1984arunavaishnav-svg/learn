@@ -8,9 +8,14 @@ div{
     animation: shubh 5s linear 0s infinite ;
 }
 
-
-
 @keyframes shubh{
-    from{left: 0px;}
-    from{left: 700px;}
+    from{
+        background-color: blue ;
+        left:0px
+    }
+    to{background-color: aquamarine;
+       left: 500px;
+    }
 }
+
+
