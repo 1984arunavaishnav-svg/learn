@@ -8,8 +8,14 @@ div{
     width: 100px;
     animation: shubh 2s linear 0s 10 ;
 }
+
 @keyframes shubh{
     from{background-color: blue ;}
     from{background-color: aquamarine;}
 }
-div:hover{}
+
+
+@keyframes shubh{
+    from{background-color: blue ;}
+    from{background-color: aquamarine;}
+}
