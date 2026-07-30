@@ -6,9 +6,10 @@ div{
     left: 500px;
     height: 100px;
     width: 100px;
-     transition: all 2s;
+    animation: shubh 2s linear 0s 10 ;
 }
-div:hover{
-    background-color: rgb(255, 0, 0);
-    transform: skew(30deg)
-  }
+@keyframes shubh{
+    from{background-color: blue ;}
+    from{background-color: aquamarine;}
+}
+div:hover{}
