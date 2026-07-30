@@ -22,7 +22,7 @@
     width: 100px;
     border-radius: 50%;
     border: 10px solid blue;
-    border-top:  solid black;
+    border-top: 10px  solid black;
     animation: loader 3s linear 1s infinite ;
 }
 @keyframes loader{
