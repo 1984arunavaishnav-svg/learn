@@ -9,7 +9,7 @@ div{
     width: 300px;
 }
 div:hover{
-    background-color: aqua;
+    background-color: rgb(255, 0, 0);
     transform: rotate(30degree);
     transform: scale(2);
 
